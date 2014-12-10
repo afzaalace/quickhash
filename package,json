@@ -1,0 +1,17 @@
+{
+    "name": "quickhash",
+    "description": "Simple and lean hashing for strings.",
+    "version": "1.0.0",
+    "homepage": "https://github.com/afzaalace/quickhash",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/afzaalace/quickhash.git"
+    },
+    "author": "afzaalace",
+    "keywords": ["hash", "fast"],
+    "main": "index",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/afzaalace/quickhash/issues"
+    }
+}
