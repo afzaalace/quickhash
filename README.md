@@ -1,5 +1,7 @@
 # Node [quickhash](https://www.npmjs.org/package/quickhash)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/brahma-dev/quickhash.svg)](https://greenkeeper.io/)
+
 Simple and lean hashing for strings.
 
 [![NPM](https://nodei.co/npm/quickhash.png?downloadRank=true&downloads=true)](https://nodei.co/npm/quickhash.png?downloadRank=true&downloads=true)
